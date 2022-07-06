@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MirageEngine", "MirageEngine\MirageEngine.vcxproj", "{CE3874EB-B63D-4909-9122-23593E3CB7AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE3874EB-B63D-4909-9122-23593E3CB7AA}.Debug|x64.ActiveCfg = Debug|x64
+		{CE3874EB-B63D-4909-9122-23593E3CB7AA}.Debug|x64.Build.0 = Debug|x64
+		{CE3874EB-B63D-4909-9122-23593E3CB7AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{CE3874EB-B63D-4909-9122-23593E3CB7AA}.Debug|x86.Build.0 = Debug|Win32
+		{CE3874EB-B63D-4909-9122-23593E3CB7AA}.Release|x64.ActiveCfg = Release|x64
+		{CE3874EB-B63D-4909-9122-23593E3CB7AA}.Release|x64.Build.0 = Release|x64
+		{CE3874EB-B63D-4909-9122-23593E3CB7AA}.Release|x86.ActiveCfg = Release|Win32
+		{CE3874EB-B63D-4909-9122-23593E3CB7AA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {452A55DE-65FC-4F7F-A067-D880022D46D2}
+	EndGlobalSection
+EndGlobal
