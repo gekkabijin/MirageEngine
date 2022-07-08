@@ -10,10 +10,19 @@
     <Filter Include="SourceFiles\System\Inline">
       <UniqueIdentifier>{75153213-cda4-480b-8687-9585b1d85ee0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="SourceFiles\Utility">
+      <UniqueIdentifier>{d85555d1-5d78-4166-9a13-d259d6fe9d58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SourceFiles\Utility\OperatorExists">
+      <UniqueIdentifier>{359aa1f0-1200-4eda-81a0-e523ec342d2e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SourceFiles\System\Inline\Inline.hpp">
       <Filter>SourceFiles\System\Inline</Filter>
+    </ClInclude>
+    <ClInclude Include="SourceFiles\Utility\OperatorExists\OperatorExists.hpp">
+      <Filter>SourceFiles\Utility\OperatorExists</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
